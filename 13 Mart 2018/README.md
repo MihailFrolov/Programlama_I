@@ -1,4 +1,4 @@
-**Ödev 1**
+**Ödev 1**<br>
 ![odev1](https://user-images.githubusercontent.com/36930580/37610192-06666540-2bb0-11e8-9d36-2e130d86d8fc.png)
 **Ödev 2**
 Ödevin bu kısmında virgüllü sayının çok uzadığını farkettim. O yüzden float komutunu kullandım. Buradaki amaç ise float komutuna özellik atamaktı. Atadığım özellik sayesinde 0'dan sonra maksimum 2 basamaklı sayı görülebilecek.
