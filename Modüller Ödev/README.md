@@ -1,2 +1,2 @@
-**Açıklama**
+#Açıklama
 Ödevlerin modül kısmı
